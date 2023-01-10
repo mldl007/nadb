@@ -102,10 +102,7 @@ rss = ['https://www.economictimes.indiatimes.com/rssfeedstopstories.cms',
        'https://www.business-standard.com/rss/latest.rss',
        'https://www.businesstoday.in/rssfeeds/?id=225346',
        'https://www.zeebiz.com/latest.xml/feed',
-       'https://www.timesofindia.indiatimes.com/rssfeedmostrecent.cms',
-       'https://www.thehindu.com/news/feeder/default.rss',
-       'https://www.indiatoday.in/rss/home',
-       'https://www.hindustantimes.com/feeds/rss/latest/rssfeed.xml']
+       'https://www.timesofindia.indiatimes.com/rssfeedmostrecent.cms']
 
 
 def get_news():
